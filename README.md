@@ -1,2 +1,2 @@
 # Redhacks-Site
-Redhacks
+Redhacks is cool :)
